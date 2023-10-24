@@ -1,3 +1,5 @@
+<img src="/CoverImg.jpg" width="1200" height="300" />
+
 <h1 align="center">Hi There 👋, I'm Resul</h1>
 <h3 align="center">Fullstack Web Developer || Mechatronics Engineer || Freelancer</h3>
 
