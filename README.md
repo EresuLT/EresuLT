@@ -6,11 +6,11 @@
 [![](https://visitcount.itsvg.in/api?id=EresuLT&label=Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-- 👨‍💻 I’m working on **Python/Django**.<br><br>
-- 🌱 I’m currently learning **Javascript/React**.<br><br>
+- 👨‍💻 I’m currently working on **Python/Django** for Backend Development.<br><br>
+- 🌱 Currently expanding my skills in **Javascript/React** for frontend interactivity.<br><br>
 - 🤝 I am open to collaborating with like-minded individuals and teams to create meaningful **Frontend and Backend** projects that have a positive impact.<br><br>
-- 👨‍💻 All of my projects are available at https://github.com/EresuLT?tab=repositories<br><br>
-- 📫 You could reach me eresultolu@gmail.com<br><br>
+- 🎯2023 Goals: Land a position at a company where I can continuously improve my web development skills while contributing to the growth and success of the organization  <br><br>
+- 🎉 Fun fact about me: I love hiking with my lovely wife, cycling, exploring nature and playing games with my friends. <br><br>
 
 
 ## 📱 Contact:
