@@ -9,7 +9,6 @@
 - 👨‍💻 I’m currently working on **Python/Django** for Backend Development.<br><br>
 - 🌱 Currently expanding my skills in **Javascript/React** for frontend interactivity.<br><br>
 - 🤝 I am open to collaborating with like-minded individuals and teams to create meaningful **Frontend and Backend** projects that have a positive impact.<br><br>
-- 🎯2023 Goals: Land a position at a company where I can continuously improve my web development skills while contributing to the growth and success of the organization  <br><br>
 - 🎉 Fun fact about me: I love hiking with my lovely wife, cycling, exploring nature and playing games with my friends. <br><br>
 
 
